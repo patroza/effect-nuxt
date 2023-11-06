@@ -3,5 +3,8 @@ export default defineNuxtConfig({
   build: {
     analyze: {}
   },
+  typescript: {
+    tsConfig: { compilerOptions: { moduleResolution: "bundler" } },
+  },
   devtools: { enabled: true }
 })
