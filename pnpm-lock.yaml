@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   effect:
-    specifier: github:Effect-TS/effect#3af726a40d56a6e634ee61104287860bf7a3621d
-    version: github.com/Effect-TS/effect/3af726a40d56a6e634ee61104287860bf7a3621d
+    specifier: github:Effect-TS/effect#c97483571c1833b75f3afb8cb692d97723b04416
+    version: github.com/Effect-TS/effect/c97483571c1833b75f3afb8cb692d97723b04416
 
 devDependencies:
   '@nuxt/devtools':
@@ -6087,9 +6087,10 @@ packages:
       readable-stream: 3.6.2
     dev: true
 
-  github.com/Effect-TS/effect/3af726a40d56a6e634ee61104287860bf7a3621d:
-    resolution: {tarball: https://codeload.github.com/Effect-TS/effect/tar.gz/3af726a40d56a6e634ee61104287860bf7a3621d}
+  github.com/Effect-TS/effect/c97483571c1833b75f3afb8cb692d97723b04416:
+    resolution: {tarball: https://codeload.github.com/Effect-TS/effect/tar.gz/c97483571c1833b75f3afb8cb692d97723b04416}
     name: effect
     version: 2.0.0-next.54
+    prepare: true
     requiresBuild: true
     dev: false

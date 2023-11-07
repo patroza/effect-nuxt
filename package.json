@@ -17,6 +17,6 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
-    "effect": "github:Effect-TS/effect#3af726a40d56a6e634ee61104287860bf7a3621d"
+    "effect": "github:Effect-TS/effect#c97483571c1833b75f3afb8cb692d97723b04416"
   }
 }
